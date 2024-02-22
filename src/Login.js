@@ -65,7 +65,7 @@ function Login() {
             onChange={handlePasswordChange}
           />
         </div>
-        <button type="submit">Login</button>
+        <button type="submit">Login right below</button>
       </form>
       <div>
           <p>Already have an account? <a href='/signup'>Sign up here</a></p>
